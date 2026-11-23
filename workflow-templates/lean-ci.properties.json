@@ -1,0 +1,12 @@
+{
+  "name": "Lean check",
+  "description": "Lint and typecheck on PRs and the default branch. Cancels superseded runs, 10 minute cap, read-only token.",
+  "iconName": "octicon checklist",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
