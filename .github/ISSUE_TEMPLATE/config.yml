@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/tickerzhq/.github/blob/main/SECURITY.md
+    about: Please don't open a public issue for security problems. This page says where to send them.
